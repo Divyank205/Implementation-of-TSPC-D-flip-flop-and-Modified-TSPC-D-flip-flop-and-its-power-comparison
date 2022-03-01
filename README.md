@@ -1,4 +1,4 @@
-# Implementation-of-TSPC-D-flip-flop-and-Modified-TSPC-D-flip-flop-and-its-power-comparison
+# Implementation-of-TSPC-D-flip-flop-and-Modified-TSPC-(MTSPC)-D-flip-flop-and-its-power-comparison
  Abstract:
 True Single Phase Clock logic is used to over the overlaps between CLOCK and (CLOCK)’. In this report a modified TSPC D flip flop is implemented and its comparison is made with the conventional TSPC D flip flop.
 # Tools used:
@@ -13,6 +13,7 @@ Symbol of TSPC D flip flop<br/>
 Testbench Schematic of TSPC D flip flop<br/>
 ![TSPC_DFF_TB_SCHEMATIC](https://user-images.githubusercontent.com/87258547/156169635-f99f299d-575a-4513-b550-e7b0ffbdc841.png)<br/>
 # MTSPC D flip flop circuit Design:<br/>
+![1645292542113](https://user-images.githubusercontent.com/87258547/156173720-5a95d267-f31d-41dd-82c5-1441eabaaa52.jpg)<br/>
 Design Schematic of MTSPC D flip flop <br/>
 ![mtspcdff_design_sch](https://user-images.githubusercontent.com/87258547/156169967-645465e0-3470-45a2-9336-1537cfecd67c.png)<br/>
 Testbench Schematic and Symbol look same as that of TSPC D flip flop.<br/>
